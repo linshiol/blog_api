@@ -70,8 +70,6 @@ https://github.com/Zfour/friends_link_list_api
 
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/8391485/1612949883724-064103a2-658f-49cb-b1e6-f3a7f0a511d1.png)
 
-
-
 此时点击Deploy，`Vercel` 的api部署已经完成。
 
 ### ④检查API是否配置成功
